@@ -1,0 +1,1169 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "s_bridge_flood_warning.fid--3b5a7533_19679119467_-2ded",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.4926,
+                    30.573
+                ]
+            },
+            "geometry_name": "geometry",
+            "properties": {
+                "url": "https://bridges.txdot.kisters.cloud/xs/?uuid=e1d2175a-dc0f-4116-bf1b-23d207aca746&list_flows=2400,2400,2400&first_utc_time=2025-04-13T20:55:07",
+                "uuid": "e1d2175a-dc0f-4116-bf1b-23d207aca746",
+                "copc_date": 20170101,
+                "min_low_ch": 613.42,
+                "max_interp_wsel": 603.2,
+                "time_model_run": "2025-04-13T20:55:07",
+                "max_flow_t00": 2400,
+                "dist_to_low_ch": 10.2
+            },
+            "bbox": [
+                -97.4926,
+                30.573,
+                -97.4926,
+                30.573
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "s_bridge_flood_warning.fid--3b5a7533_19679119467_-2dec",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.4152,
+                    30.582
+                ]
+            },
+            "geometry_name": "geometry",
+            "properties": {
+                "url": "https://bridges.txdot.kisters.cloud/xs/?uuid=d8c768ab-1d3a-440a-a621-792e86addc90&list_flows=2100,2100,2100&first_utc_time=2025-04-13T20:55:07",
+                "uuid": "d8c768ab-1d3a-440a-a621-792e86addc90",
+                "copc_date": 20170101,
+                "min_low_ch": 561.14,
+                "max_interp_wsel": 559.2,
+                "time_model_run": "2025-04-13T20:55:07",
+                "max_flow_t00": 2100,
+                "dist_to_low_ch": 1.9
+            },
+            "bbox": [
+                -97.4152,
+                30.582,
+                -97.4152,
+                30.582
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "s_bridge_flood_warning.fid--3b5a7533_19679119467_-2deb",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.4106,
+                    30.5793
+                ]
+            },
+            "geometry_name": "geometry",
+            "properties": {
+                "url": "https://bridges.txdot.kisters.cloud/xs/?uuid=8434dd76-6640-448a-a14f-47ed97441daa&list_flows=3000,3000,3000&first_utc_time=2025-04-13T20:55:07",
+                "uuid": "8434dd76-6640-448a-a14f-47ed97441daa",
+                "copc_date": 20170101,
+                "min_low_ch": 551.64,
+                "max_interp_wsel": 550,
+                "time_model_run": "2025-04-13T20:55:07",
+                "max_flow_t00": 3000,
+                "dist_to_low_ch": 1.6
+            },
+            "bbox": [
+                -97.4106,
+                30.5793,
+                -97.4106,
+                30.5793
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "s_bridge_flood_warning.fid--3b5a7533_19679119467_-2dea",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.4395,
+                    30.5668
+                ]
+            },
+            "geometry_name": "geometry",
+            "properties": {
+                "url": "https://bridges.txdot.kisters.cloud/xs/?uuid=382b5016-f792-4bf7-9604-a01118ef5d3a&list_flows=3000,3000,3000&first_utc_time=2025-04-13T20:55:07",
+                "uuid": "382b5016-f792-4bf7-9604-a01118ef5d3a",
+                "copc_date": 20170101,
+                "min_low_ch": 546.37,
+                "max_interp_wsel": 539.7,
+                "time_model_run": "2025-04-13T20:55:07",
+                "max_flow_t00": 3000,
+                "dist_to_low_ch": 6.7
+            },
+            "bbox": [
+                -97.4395,
+                30.5668,
+                -97.4395,
+                30.5668
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "s_bridge_flood_warning.fid--3b5a7533_19679119467_-2de9",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.4391,
+                    30.5667
+                ]
+            },
+            "geometry_name": "geometry",
+            "properties": {
+                "url": "https://bridges.txdot.kisters.cloud/xs/?uuid=f725077c-8b1d-4ac2-ba72-e714f99e6ee9&list_flows=3000,3000,3000&first_utc_time=2025-04-13T20:55:07",
+                "uuid": "f725077c-8b1d-4ac2-ba72-e714f99e6ee9",
+                "copc_date": 20170101,
+                "min_low_ch": 548.1,
+                "max_interp_wsel": 539.3,
+                "time_model_run": "2025-04-13T20:55:07",
+                "max_flow_t00": 3000,
+                "dist_to_low_ch": 8.8
+            },
+            "bbox": [
+                -97.4391,
+                30.5667,
+                -97.4391,
+                30.5667
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "s_bridge_flood_warning.fid--3b5a7533_19679119467_-2de8",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.4374,
+                    30.5658
+                ]
+            },
+            "geometry_name": "geometry",
+            "properties": {
+                "url": "https://bridges.txdot.kisters.cloud/xs/?uuid=c8fbe41b-5364-40b3-bd3e-e63357d6b349&list_flows=3000,3000,3000&first_utc_time=2025-04-13T20:55:07",
+                "uuid": "c8fbe41b-5364-40b3-bd3e-e63357d6b349",
+                "copc_date": 20170101,
+                "min_low_ch": 546.16,
+                "max_interp_wsel": 537.9,
+                "time_model_run": "2025-04-13T20:55:07",
+                "max_flow_t00": 3000,
+                "dist_to_low_ch": 8.3
+            },
+            "bbox": [
+                -97.4374,
+                30.5658,
+                -97.4374,
+                30.5658
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "s_bridge_flood_warning.fid--3b5a7533_19679119467_-2de7",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.4367,
+                    30.5655
+                ]
+            },
+            "geometry_name": "geometry",
+            "properties": {
+                "url": "https://bridges.txdot.kisters.cloud/xs/?uuid=de97664a-a6e8-4fcc-b901-c0a82fb014f1&list_flows=3000,3000,3000&first_utc_time=2025-04-13T20:55:07",
+                "uuid": "de97664a-a6e8-4fcc-b901-c0a82fb014f1",
+                "copc_date": 20170101,
+                "min_low_ch": 540.43,
+                "max_interp_wsel": 537.1,
+                "time_model_run": "2025-04-13T20:55:07",
+                "max_flow_t00": 3000,
+                "dist_to_low_ch": 3.3
+            },
+            "bbox": [
+                -97.4367,
+                30.5655,
+                -97.4367,
+                30.5655
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "s_bridge_flood_warning.fid--3b5a7533_19679119467_-2de6",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.4447,
+                    30.5624
+                ]
+            },
+            "geometry_name": "geometry",
+            "properties": {
+                "url": "https://bridges.txdot.kisters.cloud/xs/?uuid=4590d357-4e38-4b13-9509-9b4362721d94&list_flows=1400,1400,1400&first_utc_time=2025-04-13T20:55:07",
+                "uuid": "4590d357-4e38-4b13-9509-9b4362721d94",
+                "copc_date": 20170101,
+                "min_low_ch": 553.62,
+                "max_interp_wsel": 547.3,
+                "time_model_run": "2025-04-13T20:55:07",
+                "max_flow_t00": 1400,
+                "dist_to_low_ch": 6.3
+            },
+            "bbox": [
+                -97.4447,
+                30.5624,
+                -97.4447,
+                30.5624
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "s_bridge_flood_warning.fid--3b5a7533_19679119467_-2de5",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.4446,
+                    30.5619
+                ]
+            },
+            "geometry_name": "geometry",
+            "properties": {
+                "url": "https://bridges.txdot.kisters.cloud/xs/?uuid=d5077a28-4c22-4470-a99d-11746e904266&list_flows=1400,1400,1400&first_utc_time=2025-04-13T20:55:07",
+                "uuid": "d5077a28-4c22-4470-a99d-11746e904266",
+                "copc_date": 20170101,
+                "min_low_ch": 544.89,
+                "max_interp_wsel": 548.4,
+                "time_model_run": "2025-04-13T20:55:07",
+                "max_flow_t00": 1400,
+                "dist_to_low_ch": -3.5
+            },
+            "bbox": [
+                -97.4446,
+                30.5619,
+                -97.4446,
+                30.5619
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "s_bridge_flood_warning.fid--3b5a7533_19679119467_-2de4",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.4304,
+                    30.5602
+                ]
+            },
+            "geometry_name": "geometry",
+            "properties": {
+                "url": "https://bridges.txdot.kisters.cloud/xs/?uuid=11aa033a-811b-403c-a830-234b7ef1069c&list_flows=3000,3000,3000&first_utc_time=2025-04-13T20:55:07",
+                "uuid": "11aa033a-811b-403c-a830-234b7ef1069c",
+                "copc_date": 20170101,
+                "min_low_ch": 539.25,
+                "max_interp_wsel": 528.7,
+                "time_model_run": "2025-04-13T20:55:07",
+                "max_flow_t00": 3000,
+                "dist_to_low_ch": 10.5
+            },
+            "bbox": [
+                -97.4304,
+                30.5602,
+                -97.4304,
+                30.5602
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "s_bridge_flood_warning.fid--3b5a7533_19679119467_-2de3",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.4306,
+                    30.5602
+                ]
+            },
+            "geometry_name": "geometry",
+            "properties": {
+                "url": "https://bridges.txdot.kisters.cloud/xs/?uuid=5bd04d19-686f-4821-a4c7-bd8e222124bd&list_flows=3000,3000,3000&first_utc_time=2025-04-13T20:55:07",
+                "uuid": "5bd04d19-686f-4821-a4c7-bd8e222124bd",
+                "copc_date": 20170101,
+                "min_low_ch": 539.13,
+                "max_interp_wsel": 528.9,
+                "time_model_run": "2025-04-13T20:55:07",
+                "max_flow_t00": 3000,
+                "dist_to_low_ch": 10.2
+            },
+            "bbox": [
+                -97.4306,
+                30.5602,
+                -97.4306,
+                30.5602
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "s_bridge_flood_warning.fid--3b5a7533_19679119467_-2de2",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.4523,
+                    30.5568
+                ]
+            },
+            "geometry_name": "geometry",
+            "properties": {
+                "url": "https://bridges.txdot.kisters.cloud/xs/?uuid=951f338b-757a-4e73-bf18-fc2e54c344ca&list_flows=1400,1400,1400&first_utc_time=2025-04-13T20:55:07",
+                "uuid": "951f338b-757a-4e73-bf18-fc2e54c344ca",
+                "copc_date": 20170101,
+                "min_low_ch": 566.89,
+                "max_interp_wsel": 568.3,
+                "time_model_run": "2025-04-13T20:55:07",
+                "max_flow_t00": 1400,
+                "dist_to_low_ch": -1.4
+            },
+            "bbox": [
+                -97.4523,
+                30.5568,
+                -97.4523,
+                30.5568
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "s_bridge_flood_warning.fid--3b5a7533_19679119467_-2de1",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.4988,
+                    30.6003
+                ]
+            },
+            "geometry_name": "geometry",
+            "properties": {
+                "url": "https://bridges.txdot.kisters.cloud/xs/?uuid=c2a4b016-3012-4814-add0-eaae00f4412d&list_flows=1900,1900,1900&first_utc_time=2025-04-13T20:55:07",
+                "uuid": "c2a4b016-3012-4814-add0-eaae00f4412d",
+                "copc_date": 20170101,
+                "min_low_ch": 634.79,
+                "max_interp_wsel": 636.3,
+                "time_model_run": "2025-04-13T20:55:07",
+                "max_flow_t00": 1900,
+                "dist_to_low_ch": -1.5
+            },
+            "bbox": [
+                -97.4988,
+                30.6003,
+                -97.4988,
+                30.6003
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "s_bridge_flood_warning.fid--3b5a7533_19679119467_-2de0",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.5304,
+                    30.5902
+                ]
+            },
+            "geometry_name": "geometry",
+            "properties": {
+                "url": "https://bridges.txdot.kisters.cloud/xs/?uuid=04799aab-1144-48b3-b56c-5bc6b09f052a&list_flows=1100,1100,1100&first_utc_time=2025-04-13T20:55:07",
+                "uuid": "04799aab-1144-48b3-b56c-5bc6b09f052a",
+                "copc_date": 20170101,
+                "min_low_ch": 648.74,
+                "max_interp_wsel": 651.3,
+                "time_model_run": "2025-04-13T20:55:07",
+                "max_flow_t00": 1100,
+                "dist_to_low_ch": -2.6
+            },
+            "bbox": [
+                -97.5304,
+                30.5902,
+                -97.5304,
+                30.5902
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "s_bridge_flood_warning.fid--3b5a7533_19679119467_-2ddf",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.4977,
+                    30.5847
+                ]
+            },
+            "geometry_name": "geometry",
+            "properties": {
+                "url": "https://bridges.txdot.kisters.cloud/xs/?uuid=71fa89f9-8801-4d69-82fa-0bbfea68439c&list_flows=1600,1600,1600&first_utc_time=2025-04-13T20:55:07",
+                "uuid": "71fa89f9-8801-4d69-82fa-0bbfea68439c",
+                "copc_date": 20170101,
+                "min_low_ch": 594.65,
+                "max_interp_wsel": 598.6,
+                "time_model_run": "2025-04-13T20:55:07",
+                "max_flow_t00": 1600,
+                "dist_to_low_ch": -4
+            },
+            "bbox": [
+                -97.4977,
+                30.5847,
+                -97.4977,
+                30.5847
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "s_bridge_flood_warning.fid--3b5a7533_19679119467_-2dde",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.5278,
+                    30.5742
+                ]
+            },
+            "geometry_name": "geometry",
+            "properties": {
+                "url": "https://bridges.txdot.kisters.cloud/xs/?uuid=dc60abba-6064-40fc-8644-ef42eb8dc3b8&list_flows=2000,2000,2000&first_utc_time=2025-04-13T20:55:07",
+                "uuid": "dc60abba-6064-40fc-8644-ef42eb8dc3b8",
+                "copc_date": 20170101,
+                "min_low_ch": 641.31,
+                "max_interp_wsel": 645.3,
+                "time_model_run": "2025-04-13T20:55:07",
+                "max_flow_t00": 2000,
+                "dist_to_low_ch": -4
+            },
+            "bbox": [
+                -97.5278,
+                30.5742,
+                -97.5278,
+                30.5742
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "s_bridge_flood_warning.fid--3b5a7533_19679119467_-2ddd",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.4688,
+                    30.5941
+                ]
+            },
+            "geometry_name": "geometry",
+            "properties": {
+                "url": "https://bridges.txdot.kisters.cloud/xs/?uuid=45d40aac-c19c-4ce8-8c0d-4130cbf3356d&list_flows=1900,1900,1900&first_utc_time=2025-04-13T20:55:07",
+                "uuid": "45d40aac-c19c-4ce8-8c0d-4130cbf3356d",
+                "copc_date": 20170101,
+                "min_low_ch": 590.58,
+                "max_interp_wsel": 590.7,
+                "time_model_run": "2025-04-13T20:55:07",
+                "max_flow_t00": 1900,
+                "dist_to_low_ch": -0.1
+            },
+            "bbox": [
+                -97.4688,
+                30.5941,
+                -97.4688,
+                30.5941
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "s_bridge_flood_warning.fid--3b5a7533_19679119467_-2ddc",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.484,
+                    30.5534
+                ]
+            },
+            "geometry_name": "geometry",
+            "properties": {
+                "url": "https://bridges.txdot.kisters.cloud/xs/?uuid=fef053e3-26dd-491c-97b5-d3cd9612fb34&list_flows=1400,1400,1400&first_utc_time=2025-04-13T20:55:07",
+                "uuid": "fef053e3-26dd-491c-97b5-d3cd9612fb34",
+                "copc_date": 20170101,
+                "min_low_ch": 626.47,
+                "max_interp_wsel": 626.1,
+                "time_model_run": "2025-04-13T20:55:07",
+                "max_flow_t00": 1400,
+                "dist_to_low_ch": 0.4
+            },
+            "bbox": [
+                -97.484,
+                30.5534,
+                -97.484,
+                30.5534
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "s_bridge_flood_warning.fid--3b5a7533_19679119467_-2ddb",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.4787,
+                    30.599
+                ]
+            },
+            "geometry_name": "geometry",
+            "properties": {
+                "url": "https://bridges.txdot.kisters.cloud/xs/?uuid=2698c020-69e9-4886-a23c-9b145ea07e45&list_flows=1900,1900,1900&first_utc_time=2025-04-13T20:55:07",
+                "uuid": "2698c020-69e9-4886-a23c-9b145ea07e45",
+                "copc_date": 20170101,
+                "min_low_ch": 605.89,
+                "max_interp_wsel": 606.8,
+                "time_model_run": "2025-04-13T20:55:07",
+                "max_flow_t00": 1900,
+                "dist_to_low_ch": -0.9
+            },
+            "bbox": [
+                -97.4787,
+                30.599,
+                -97.4787,
+                30.599
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "s_bridge_flood_warning.fid--3b5a7533_19679119467_-2dda",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.3673,
+                    30.5408
+                ]
+            },
+            "geometry_name": "geometry",
+            "properties": {
+                "url": "https://bridges.txdot.kisters.cloud/xs/?uuid=89501a80-9ce3-411b-b0f8-63b55d58e71f&list_flows=2800,2800,2800&first_utc_time=2025-04-13T20:55:07",
+                "uuid": "89501a80-9ce3-411b-b0f8-63b55d58e71f",
+                "copc_date": 20170101,
+                "min_low_ch": 475.39,
+                "max_interp_wsel": 476.5,
+                "time_model_run": "2025-04-13T20:55:07",
+                "max_flow_t00": 2800,
+                "dist_to_low_ch": -1.1
+            },
+            "bbox": [
+                -97.3673,
+                30.5408,
+                -97.3673,
+                30.5408
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "s_bridge_flood_warning.fid--3b5a7533_19679119467_-2dd9",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.4057,
+                    30.575
+                ]
+            },
+            "geometry_name": "geometry",
+            "properties": {
+                "url": "https://bridges.txdot.kisters.cloud/xs/?uuid=b8845bc2-0f2f-4964-9e17-53bf62fa1621&list_flows=3000,3000,3000&first_utc_time=2025-04-13T20:55:07",
+                "uuid": "b8845bc2-0f2f-4964-9e17-53bf62fa1621",
+                "copc_date": 20170101,
+                "min_low_ch": 534.12,
+                "max_interp_wsel": 534.4,
+                "time_model_run": "2025-04-13T20:55:07",
+                "max_flow_t00": 3000,
+                "dist_to_low_ch": -0.3
+            },
+            "bbox": [
+                -97.4057,
+                30.575,
+                -97.4057,
+                30.575
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "s_bridge_flood_warning.fid--3b5a7533_19679119467_-2dd8",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.4032,
+                    30.5728
+                ]
+            },
+            "geometry_name": "geometry",
+            "properties": {
+                "url": "https://bridges.txdot.kisters.cloud/xs/?uuid=f06dc774-4ad6-4aac-8898-74953ce34cc6&list_flows=3000,3000,3000&first_utc_time=2025-04-13T20:55:07",
+                "uuid": "f06dc774-4ad6-4aac-8898-74953ce34cc6",
+                "copc_date": 20170101,
+                "min_low_ch": 541.36,
+                "max_interp_wsel": 528.1,
+                "time_model_run": "2025-04-13T20:55:07",
+                "max_flow_t00": 3000,
+                "dist_to_low_ch": 13.3
+            },
+            "bbox": [
+                -97.4032,
+                30.5728,
+                -97.4032,
+                30.5728
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "s_bridge_flood_warning.fid--3b5a7533_19679119467_-2dd7",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.4018,
+                    30.5714
+                ]
+            },
+            "geometry_name": "geometry",
+            "properties": {
+                "url": "https://bridges.txdot.kisters.cloud/xs/?uuid=7a6c98e5-4af7-4052-99d2-0e5cab5905be&list_flows=3000,3000,3000&first_utc_time=2025-04-13T20:55:07",
+                "uuid": "7a6c98e5-4af7-4052-99d2-0e5cab5905be",
+                "copc_date": 20170101,
+                "min_low_ch": 529.22,
+                "max_interp_wsel": 523.2,
+                "time_model_run": "2025-04-13T20:55:07",
+                "max_flow_t00": 3000,
+                "dist_to_low_ch": 6
+            },
+            "bbox": [
+                -97.4018,
+                30.5714,
+                -97.4018,
+                30.5714
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "s_bridge_flood_warning.fid--3b5a7533_19679119467_-2dd6",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.4012,
+                    30.5704
+                ]
+            },
+            "geometry_name": "geometry",
+            "properties": {
+                "url": "https://bridges.txdot.kisters.cloud/xs/?uuid=8881df2f-6afe-43a0-8f8f-e8278002c651&list_flows=3000,3000,3000&first_utc_time=2025-04-13T20:55:07",
+                "uuid": "8881df2f-6afe-43a0-8f8f-e8278002c651",
+                "copc_date": 20170101,
+                "min_low_ch": 520.84,
+                "max_interp_wsel": 520.6,
+                "time_model_run": "2025-04-13T20:55:07",
+                "max_flow_t00": 3000,
+                "dist_to_low_ch": 0.2
+            },
+            "bbox": [
+                -97.4012,
+                30.5704,
+                -97.4012,
+                30.5704
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "s_bridge_flood_warning.fid--3b5a7533_19679119467_-2dd5",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.3998,
+                    30.568
+                ]
+            },
+            "geometry_name": "geometry",
+            "properties": {
+                "url": "https://bridges.txdot.kisters.cloud/xs/?uuid=708540a5-689b-4fff-bfca-3a27ca299c53&list_flows=3000,3000,3000&first_utc_time=2025-04-13T20:55:07",
+                "uuid": "708540a5-689b-4fff-bfca-3a27ca299c53",
+                "copc_date": 20170101,
+                "min_low_ch": 532.31,
+                "max_interp_wsel": 515.6,
+                "time_model_run": "2025-04-13T20:55:07",
+                "max_flow_t00": 3000,
+                "dist_to_low_ch": 16.7
+            },
+            "bbox": [
+                -97.3998,
+                30.568,
+                -97.3998,
+                30.568
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "s_bridge_flood_warning.fid--3b5a7533_19679119467_-2dd4",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.3983,
+                    30.565
+                ]
+            },
+            "geometry_name": "geometry",
+            "properties": {
+                "url": "https://bridges.txdot.kisters.cloud/xs/?uuid=878abaa5-e697-4015-8b7a-9c95530f404e&list_flows=3000,3000,3000&first_utc_time=2025-04-13T20:55:07",
+                "uuid": "878abaa5-e697-4015-8b7a-9c95530f404e",
+                "copc_date": 20170101,
+                "min_low_ch": 512.25,
+                "max_interp_wsel": 509,
+                "time_model_run": "2025-04-13T20:55:07",
+                "max_flow_t00": 3000,
+                "dist_to_low_ch": 3.2
+            },
+            "bbox": [
+                -97.3983,
+                30.565,
+                -97.3983,
+                30.565
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "s_bridge_flood_warning.fid--3b5a7533_19679119467_-2dd3",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.3899,
+                    30.562
+                ]
+            },
+            "geometry_name": "geometry",
+            "properties": {
+                "url": "https://bridges.txdot.kisters.cloud/xs/?uuid=118fb75c-8803-43b5-9fe4-d0eb73a3a2fb&list_flows=1100,1100,1100&first_utc_time=2025-04-13T20:55:07",
+                "uuid": "118fb75c-8803-43b5-9fe4-d0eb73a3a2fb",
+                "copc_date": 20170101,
+                "min_low_ch": 509.95,
+                "max_interp_wsel": 498.5,
+                "time_model_run": "2025-04-13T20:55:07",
+                "max_flow_t00": 1100,
+                "dist_to_low_ch": 11.4
+            },
+            "bbox": [
+                -97.3899,
+                30.562,
+                -97.3899,
+                30.562
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "s_bridge_flood_warning.fid--3b5a7533_19679119467_-2dd2",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.3897,
+                    30.5618
+                ]
+            },
+            "geometry_name": "geometry",
+            "properties": {
+                "url": "https://bridges.txdot.kisters.cloud/xs/?uuid=5fa1ef4f-04fc-49f4-b847-7b0cef3324d2&list_flows=1100,1100,1100&first_utc_time=2025-04-13T20:55:07",
+                "uuid": "5fa1ef4f-04fc-49f4-b847-7b0cef3324d2",
+                "copc_date": 20170101,
+                "min_low_ch": 510.02,
+                "max_interp_wsel": 498.3,
+                "time_model_run": "2025-04-13T20:55:07",
+                "max_flow_t00": 1100,
+                "dist_to_low_ch": 11.7
+            },
+            "bbox": [
+                -97.3897,
+                30.5618,
+                -97.3897,
+                30.5618
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "s_bridge_flood_warning.fid--3b5a7533_19679119467_-2dd1",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.4046,
+                    30.5612
+                ]
+            },
+            "geometry_name": "geometry",
+            "properties": {
+                "url": "https://bridges.txdot.kisters.cloud/xs/?uuid=1cc7ffc3-7207-4cf9-830a-214af230ec19&list_flows=3000,3000,3000&first_utc_time=2025-04-13T20:55:07",
+                "uuid": "1cc7ffc3-7207-4cf9-830a-214af230ec19",
+                "copc_date": 20170101,
+                "min_low_ch": 521.63,
+                "max_interp_wsel": 510,
+                "time_model_run": "2025-04-13T20:55:07",
+                "max_flow_t00": 3000,
+                "dist_to_low_ch": 11.6
+            },
+            "bbox": [
+                -97.4046,
+                30.5612,
+                -97.4046,
+                30.5612
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "s_bridge_flood_warning.fid--3b5a7533_19679119467_-2dd0",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.4084,
+                    30.5591
+                ]
+            },
+            "geometry_name": "geometry",
+            "properties": {
+                "url": "https://bridges.txdot.kisters.cloud/xs/?uuid=aa572885-f38d-4ad4-a45f-2993d9ef5d50&list_flows=3000,3000,3000&first_utc_time=2025-04-13T20:55:07",
+                "uuid": "aa572885-f38d-4ad4-a45f-2993d9ef5d50",
+                "copc_date": 20170101,
+                "min_low_ch": 524.51,
+                "max_interp_wsel": 512.3,
+                "time_model_run": "2025-04-13T20:55:07",
+                "max_flow_t00": 3000,
+                "dist_to_low_ch": 12.2
+            },
+            "bbox": [
+                -97.4084,
+                30.5591,
+                -97.4084,
+                30.5591
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "s_bridge_flood_warning.fid--3b5a7533_19679119467_-2dcf",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.3738,
+                    30.5562
+                ]
+            },
+            "geometry_name": "geometry",
+            "properties": {
+                "url": "https://bridges.txdot.kisters.cloud/xs/?uuid=71ed8848-62eb-4e15-8ae1-74ff78fe9a9c&list_flows=2100,2100,2100&first_utc_time=2025-04-13T20:55:07",
+                "uuid": "71ed8848-62eb-4e15-8ae1-74ff78fe9a9c",
+                "copc_date": 20170101,
+                "min_low_ch": 518.73,
+                "max_interp_wsel": 515,
+                "time_model_run": "2025-04-13T20:55:07",
+                "max_flow_t00": 2100,
+                "dist_to_low_ch": 3.7
+            },
+            "bbox": [
+                -97.3738,
+                30.5562,
+                -97.3738,
+                30.5562
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "s_bridge_flood_warning.fid--3b5a7533_19679119467_-2dce",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.3433,
+                    30.5468
+                ]
+            },
+            "geometry_name": "geometry",
+            "properties": {
+                "url": "https://bridges.txdot.kisters.cloud/xs/?uuid=4874568f-008a-4168-8777-78998e2dd6f4&list_flows=2300,2300,2300&first_utc_time=2025-04-13T20:55:07",
+                "uuid": "4874568f-008a-4168-8777-78998e2dd6f4",
+                "copc_date": 20170101,
+                "min_low_ch": 487.22,
+                "max_interp_wsel": 484.8,
+                "time_model_run": "2025-04-13T20:55:07",
+                "max_flow_t00": 2300,
+                "dist_to_low_ch": 2.4
+            },
+            "bbox": [
+                -97.3433,
+                30.5468,
+                -97.3433,
+                30.5468
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "s_bridge_flood_warning.fid--3b5a7533_19679119467_-2dcd",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.4056,
+                    30.5434
+                ]
+            },
+            "geometry_name": "geometry",
+            "properties": {
+                "url": "https://bridges.txdot.kisters.cloud/xs/?uuid=fe04a443-2c1c-46c6-9ef8-4b1b73c5b4ef&list_flows=1300,1300,1300&first_utc_time=2025-04-13T20:55:07",
+                "uuid": "fe04a443-2c1c-46c6-9ef8-4b1b73c5b4ef",
+                "copc_date": 20170101,
+                "min_low_ch": 548.61,
+                "max_interp_wsel": 535.4,
+                "time_model_run": "2025-04-13T20:55:07",
+                "max_flow_t00": 1300,
+                "dist_to_low_ch": 13.2
+            },
+            "bbox": [
+                -97.4056,
+                30.5434,
+                -97.4056,
+                30.5434
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "s_bridge_flood_warning.fid--3b5a7533_19679119467_-2dcc",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.3681,
+                    30.5427
+                ]
+            },
+            "geometry_name": "geometry",
+            "properties": {
+                "url": "https://bridges.txdot.kisters.cloud/xs/?uuid=63d3758b-63ef-4d1c-831e-291588aa688d&list_flows=1100,1100,1100&first_utc_time=2025-04-13T20:55:07",
+                "uuid": "63d3758b-63ef-4d1c-831e-291588aa688d",
+                "copc_date": 20170101,
+                "min_low_ch": 475.29,
+                "max_interp_wsel": 476.9,
+                "time_model_run": "2025-04-13T20:55:07",
+                "max_flow_t00": 1100,
+                "dist_to_low_ch": -1.6
+            },
+            "bbox": [
+                -97.3681,
+                30.5427,
+                -97.3681,
+                30.5427
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "s_bridge_flood_warning.fid--3b5a7533_19679119467_-2dcb",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.3931,
+                    30.5413
+                ]
+            },
+            "geometry_name": "geometry",
+            "properties": {
+                "url": "https://bridges.txdot.kisters.cloud/xs/?uuid=733a709b-daf6-4b23-a1c8-69600083dfdc&list_flows=1300,1300,1300&first_utc_time=2025-04-13T20:55:07",
+                "uuid": "733a709b-daf6-4b23-a1c8-69600083dfdc",
+                "copc_date": 20170101,
+                "min_low_ch": 515.19,
+                "max_interp_wsel": 512.8,
+                "time_model_run": "2025-04-13T20:55:07",
+                "max_flow_t00": 1300,
+                "dist_to_low_ch": 2.4
+            },
+            "bbox": [
+                -97.3931,
+                30.5413,
+                -97.3931,
+                30.5413
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "s_bridge_flood_warning.fid--3b5a7533_19679119467_-2dca",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.3618,
+                    30.5386
+                ]
+            },
+            "geometry_name": "geometry",
+            "properties": {
+                "url": "https://bridges.txdot.kisters.cloud/xs/?uuid=6dc38955-9501-49d7-afdb-4475519ae0f5&list_flows=2800,2800,2800&first_utc_time=2025-04-13T20:55:07",
+                "uuid": "6dc38955-9501-49d7-afdb-4475519ae0f5",
+                "copc_date": 20170101,
+                "min_low_ch": 483.6,
+                "max_interp_wsel": 474.5,
+                "time_model_run": "2025-04-13T20:55:07",
+                "max_flow_t00": 2800,
+                "dist_to_low_ch": 9.1
+            },
+            "bbox": [
+                -97.3618,
+                30.5386,
+                -97.3618,
+                30.5386
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "s_bridge_flood_warning.fid--3b5a7533_19679119467_-2dc9",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.425,
+                    30.5889
+                ]
+            },
+            "geometry_name": "geometry",
+            "properties": {
+                "url": "https://bridges.txdot.kisters.cloud/xs/?uuid=6c26e77e-2dda-438e-8dde-b826ce3291d7&list_flows=2100,2100,2100&first_utc_time=2025-04-13T20:55:07",
+                "uuid": "6c26e77e-2dda-438e-8dde-b826ce3291d7",
+                "copc_date": 20170101,
+                "min_low_ch": 571.84,
+                "max_interp_wsel": 575.9,
+                "time_model_run": "2025-04-13T20:55:07",
+                "max_flow_t00": 2100,
+                "dist_to_low_ch": -4.1
+            },
+            "bbox": [
+                -97.425,
+                30.5889,
+                -97.425,
+                30.5889
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "s_bridge_flood_warning.fid--3b5a7533_19679119467_-2dc8",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.3177,
+                    30.5422
+                ]
+            },
+            "geometry_name": "geometry",
+            "properties": {
+                "url": "https://bridges.txdot.kisters.cloud/xs/?uuid=6b6898e3-07e6-4b83-89de-357731ec37ae&list_flows=3000,3000,3000&first_utc_time=2025-04-13T20:55:07",
+                "uuid": "6b6898e3-07e6-4b83-89de-357731ec37ae",
+                "copc_date": 20170101,
+                "min_low_ch": 449.13,
+                "max_interp_wsel": 454,
+                "time_model_run": "2025-04-13T20:55:07",
+                "max_flow_t00": 3000,
+                "dist_to_low_ch": -4.9
+            },
+            "bbox": [
+                -97.3177,
+                30.5422,
+                -97.3177,
+                30.5422
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "s_bridge_flood_warning.fid--3b5a7533_19679119467_-2dc7",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.5231,
+                    30.5627
+                ]
+            },
+            "geometry_name": "geometry",
+            "properties": {
+                "url": "https://bridges.txdot.kisters.cloud/xs/?uuid=96f77289-333c-403b-bbce-88075633aec5&list_flows=2400,2400,2400&first_utc_time=2025-04-13T20:55:07",
+                "uuid": "96f77289-333c-403b-bbce-88075633aec5",
+                "copc_date": 20170101,
+                "min_low_ch": 656.3,
+                "max_interp_wsel": 657.6,
+                "time_model_run": "2025-04-13T20:55:07",
+                "max_flow_t00": 2400,
+                "dist_to_low_ch": -1.3
+            },
+            "bbox": [
+                -97.5231,
+                30.5627,
+                -97.5231,
+                30.5627
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "s_bridge_flood_warning.fid--3b5a7533_19679119467_-2dc6",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.4082,
+                    30.5776
+                ]
+            },
+            "geometry_name": "geometry",
+            "properties": {
+                "url": "https://bridges.txdot.kisters.cloud/xs/?uuid=c477717e-f251-456d-8e41-024cb6540991&list_flows=3000,3000,3000&first_utc_time=2025-04-13T20:55:07",
+                "uuid": "c477717e-f251-456d-8e41-024cb6540991",
+                "copc_date": 20170101,
+                "min_low_ch": 539.89,
+                "max_interp_wsel": 541,
+                "time_model_run": "2025-04-13T20:55:07",
+                "max_flow_t00": 3000,
+                "dist_to_low_ch": -1.1
+            },
+            "bbox": [
+                -97.4082,
+                30.5776,
+                -97.4082,
+                30.5776
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "s_bridge_flood_warning.fid--3b5a7533_19679119467_-2dc5",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.4784,
+                    30.5519
+                ]
+            },
+            "geometry_name": "geometry",
+            "properties": {
+                "url": "https://bridges.txdot.kisters.cloud/xs/?uuid=4b547aca-e722-47e2-9095-9908dcff3ddd&list_flows=1400,1400,1400&first_utc_time=2025-04-13T20:55:07",
+                "uuid": "4b547aca-e722-47e2-9095-9908dcff3ddd",
+                "copc_date": 20240129,
+                "min_low_ch": 632.89,
+                "max_interp_wsel": 614.6,
+                "time_model_run": "2025-04-13T20:55:07",
+                "max_flow_t00": 1400,
+                "dist_to_low_ch": 18.3
+            },
+            "bbox": [
+                -97.4784,
+                30.5519,
+                -97.4784,
+                30.5519
+            ]
+        }
+    ],
+    "totalFeatures": 41,
+    "numberMatched": 41,
+    "numberReturned": 41,
+    "timeStamp": "2025-04-29T14:05:52.345Z",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "bbox": [
+        -97.5304,
+        30.5386,
+        -97.3177,
+        30.6003
+    ]
+}
